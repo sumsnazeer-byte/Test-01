@@ -1,2 +1,4 @@
 # Test-01
-This my first test
+This my first test repo
+i amlearling Devops classes 
+
