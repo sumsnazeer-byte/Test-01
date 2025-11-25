@@ -1,3 +1,4 @@
+
 # Test-01
 This my first test repo
 i amlearling Devops classes 
@@ -7,4 +8,5 @@ hiiii
 Today we are learnig Git committe processign
 Today My Boss is supported to install of  gedit apllication 
 I am learnig  new command
+Python3 installation done 
 
